@@ -1,0 +1,1 @@
+sys.stdout = open('out.txt', 'w')
